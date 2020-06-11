@@ -1,0 +1,15 @@
+{
+  "name": "float32",
+  "collaborators": [
+    "Wodor <17339354+wode490390@users.noreply.github.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "float32_bg.wasm",
+    "float32.js",
+    "float32.d.ts"
+  ],
+  "module": "float32.js",
+  "types": "float32.d.ts",
+  "sideEffects": false
+}
